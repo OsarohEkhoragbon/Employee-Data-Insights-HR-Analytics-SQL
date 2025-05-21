@@ -79,7 +79,8 @@ I'm a data analyst passionate about solving workforce challenges using structure
 
 If you're hiring for roles in data analytics, HR tech, or SQL development—let's connect!
 
-🔗 Connect With Me
-LinkedIn
+## 🔗 Connect With Me
 
-GitHub
+📧 Email: osarohekhoragbon@gmail.com  
+💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
