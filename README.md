@@ -18,7 +18,7 @@ NextGen Corp's HR department needed a data-driven strategy to:
 
 ## 🛠 Tools & Technologies
 - **PostgreSQL**
-- SQL (with JOIN, GROUP BY, CASE, AVG, COUNT, HAVING, ORDER BY)
+- SQL (with JOIN,AGGREGATIONS, GROUP BY, CASE, AVG, COUNT, SUM, HAVING, ORDER BY AND SUBQUERIES)
 
 ---
 
