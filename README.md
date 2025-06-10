@@ -82,7 +82,7 @@ If you're hiring for roles in data analytics, HR tech, or SQL development—let'
 ## 🔗 Connect With Me
 
 📧 Email: osarohekhoragbon@gmail.com  
-💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon/)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
 
 📌 [Linkedin Project Link](https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7333152619542003712-cnFH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)
